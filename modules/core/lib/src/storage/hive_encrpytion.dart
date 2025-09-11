@@ -4,7 +4,7 @@ import 'dart:typed_data';
 import 'package:core/src/storage/secure_storage.dart';
 import 'package:hive_ce_flutter/hive_flutter.dart';
 
-/// Manages encryption keys for Hive storage using [SecureStorage].
+/// Manages encryption keys for [HiveStorage] using [SecureStorage].
 class HiveEncryption {
   HiveEncryption(this._hive, this._secureStorage);
 
