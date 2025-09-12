@@ -5,7 +5,7 @@ import 'package:flutter/foundation.dart';
 import 'package:pretty_dio_logger/pretty_dio_logger.dart';
 import 'package:ua_client_hints/ua_client_hints.dart';
 
-/// Factory class for creating and configuring Dio HTTP client instances.
+/// Creates Dio HTTP client instances with configuration.
 class DioFactory with DioMixin implements Dio {
   DioFactory._() {
     options = BaseOptions(
