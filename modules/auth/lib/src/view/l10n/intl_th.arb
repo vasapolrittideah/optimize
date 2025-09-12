@@ -1,0 +1,17 @@
+{
+  "@@locale": "th",
+  "commonEmailInputLabel": "อีเมล",
+  "commonEmailInputHint": "กรอกอีเมลของคุณ",
+  "commonEmailInputErrorRequired": "จำเป็นต้องกรอกอีเมล",
+  "commonEmailInputErrorInvalid": "อีเมลไม่ถูกต้อง",
+  "commonPasswordInputLabel": "รหัสผ่าน",
+  "commonPasswordInputHint": "กรอกรหัสผ่านของคุณ",
+  "commonPasswordInputErrorRequired": "จำเป็นต้องกรอกรหัสผ่าน",
+  "commonGoogleButton": "ดำเนินการด้วย Google",
+  "commonFacebookButton": "ดำเนินการด้วย Facebook",
+  "commonAppleButton": "ดำเนินการด้วย Apple",
+  "screenLoginOrDividerText": "หรือ",
+  "screenLoginSubmitButton": "เข้าสู่ระบบ",
+  "screenLoginDontHaveAccount": "ยังไม่มีบัญชี? ",
+  "screenLoginSignUpButton": "ลงทะเบียน"
+}

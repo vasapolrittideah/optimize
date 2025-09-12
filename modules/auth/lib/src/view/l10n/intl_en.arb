@@ -1,0 +1,17 @@
+{
+  "@@locale": "en",
+  "commonEmailInputLabel": "Email",
+  "commonEmailInputHint": "Enter your email",
+  "commonEmailInputErrorRequired": "Email is required",
+  "commonEmailInputErrorInvalid": "Email is invalid",
+  "commonPasswordInputLabel": "Password",
+  "commonPasswordInputHint": "Enter your password",
+  "commonPasswordInputErrorRequired": "Password is required",
+  "commonGoogleButton": "Continue with Google",
+  "commonFacebookButton": "Continue with Facebook",
+  "commonAppleButton": "Continue with Apple",
+  "screenLoginOrDividerText": "OR",
+  "screenLoginSubmitButton": "Login",
+  "screenLoginDontHaveAccount": "Don't have an account? ",
+  "screenLoginSignUpButton": "Sign Up"
+}
