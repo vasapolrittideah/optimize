@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:core/src/consts/auth_status.dart';
-import 'package:core/src/models/session_model.dart';
+import 'package:core/src/models/session/session_model.dart';
 import 'package:core/src/storage/hive_storage.dart';
 
 /// Manages user sessions using [HiveStorage].
