@@ -18,6 +18,7 @@ dependencies:
   go_router: ^16.2.1
   flutter_svg: ^2.2.1
   form_builder_validators: ^11.2.0
+  intl: ^0.20.2
 
 dev_dependencies:
   flutter_test:
@@ -29,5 +30,5 @@ flutter_intl:
   enabled: true
   main_locale: th
   class_name: AuthLocalizations
-  arb_dir: lib/src/view/l10n
+  arb_dir: lib/gen/l10n
   output_dir: lib/gen

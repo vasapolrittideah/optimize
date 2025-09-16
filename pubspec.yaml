@@ -45,6 +45,8 @@ melos:
         flutter: true
 
     gen:intl:
-      exec: dart run intl_utils:generate
+      run: dart run core:merge_l10n
+      exec:
+        concurrency: 1
       packageFilters:
         flutter: true

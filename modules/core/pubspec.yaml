@@ -8,6 +8,9 @@ environment:
   sdk: ^3.9.2
   flutter: ">=1.17.0"
 
+executables:
+  merge_l10n:
+
 dependencies:
   dio: ^5.9.0
   equatable: ^2.0.7
@@ -21,6 +24,7 @@ dependencies:
   get_it: ^8.2.0
   hive_ce: ^2.12.0
   hive_ce_flutter: ^2.3.2
+  intl: ^0.20.2
   json_annotation: ^4.9.0
   package_info_plus: ^8.3.1
   path: ^1.9.1
@@ -65,5 +69,5 @@ flutter_intl:
   enabled: true
   main_locale: th
   class_name: CoreLocalizations
-  arb_dir: lib/src/l10n
+  arb_dir: lib/gen/l10n
   output_dir: lib/gen
