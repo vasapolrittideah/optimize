@@ -41,6 +41,8 @@ dev_dependencies:
   intl_utils: ^2.8.11
 
 flutter:
+  assets:
+    - ./assets/images/
   fonts:
     - family: LineSeedSansTH
       fonts:

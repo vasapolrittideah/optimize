@@ -19,5 +19,6 @@ export 'src/widgets/loader/loader.dart';
 export 'src/widgets/snackbar/snackbar.dart';
 export 'src/widgets/text_input/text_input.dart';
 export 'src/core_module.dart';
+export 'gen/assets.gen.dart';
 export 'gen/fonts.gen.dart';
 export 'gen/l10n.dart';
